@@ -1,6 +1,6 @@
-# FreightFox - Transporter Assignment on Lanes Optimization Service
+# Transporter Assignment on Lanes Optimization Service
 
-A production-grade Spring Boot application designed for FreightFox's backend assignment. The service solves the **Transporter Assignment on Lanes** procurement problem by optimizing the allocation of transporters across Indian freight lanes under cost minimization and carrier participation constraints.
+The service solves the **Transporter Assignment on Lanes** procurement problem by optimizing the allocation of transporters across Indian freight lanes under cost minimization and carrier participation constraints.
 
 ---
 
