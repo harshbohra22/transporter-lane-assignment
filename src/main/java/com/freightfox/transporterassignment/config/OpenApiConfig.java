@@ -19,7 +19,7 @@ public class OpenApiConfig {
                         .description("REST API service to optimize transporter procurement allocations across Indian freight lanes with minimum cost and full coverage constraints.")
                         .contact(new Contact()
                                 .name("Harsh Bohra")
-                                .email("harshbohra@example.com"))
+                                .email("harshbohra2208@gmail.com"))
                         .license(new License()
                                 .name("Apache 2.0")
                                 .url("https://www.apache.org/licenses/LICENSE-2.0")));
